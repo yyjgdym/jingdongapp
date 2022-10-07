@@ -34,6 +34,7 @@
 </template>
 
 <script>
+    import axios from "axios";
     let tel=localStorage.getItem("tel");
     let yzm=localStorage.getItem("yzm");
 export default {
@@ -49,7 +50,7 @@ export default {
             this.$router.go(-1);
         },
         send(){
-           this.$service({
+           axios({
             url:"api/user/dosendmsgcode",
             method:"post",
             data:{
