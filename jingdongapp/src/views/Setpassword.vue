@@ -31,7 +31,7 @@
   </template>
   
   <script>
- 
+ import axios from "axios";
   export default {
       name:"ReReg",
       data(){
@@ -46,7 +46,7 @@
               this.$router.go(-1);
           },
           send(){
-             this.$service({
+             axios({
               url:"api/user/dosendmsgcode",
               method:"post",
               data:{
