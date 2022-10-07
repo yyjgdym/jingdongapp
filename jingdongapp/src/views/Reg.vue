@@ -36,6 +36,7 @@
 </template>
 
 <script>
+import axios from "axios";
 export default {
   name: "Reg",
   data() {
@@ -57,7 +58,7 @@ export default {
       }
     },
     next() {
-      this.$service({
+      axios({
         url: "/api/user/docheckphone",
         method: "post",
         data: {
