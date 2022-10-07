@@ -1,0 +1,177 @@
+{
+  "id": "2720070",
+  "name": "蚂蚁财富呀",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "817746",
+      "name": "业绩看板",
+      "font_class": "yejikanban",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1221178",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "1363762",
+      "name": "电子卡卷",
+      "font_class": "dianziqiajuan",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "1968436",
+      "name": "礼物",
+      "font_class": "liwu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2110758",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "2375890",
+      "name": "蚂蚁财富logo",
+      "font_class": "mayicaifulogo",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3624796",
+      "name": "排行榜",
+      "font_class": "paihangbang",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "3716089",
+      "name": "社区",
+      "font_class": "shequ",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "3912282",
+      "name": "黄金",
+      "font_class": "ziyuan",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4464159",
+      "name": "新品",
+      "font_class": "xinpin",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "5724131",
+      "name": "v",
+      "font_class": "v",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "7414896",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "10575744",
+      "name": "账单",
+      "font_class": "zhangdan",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "11819025",
+      "name": "股市",
+      "font_class": "gushi",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "13177299",
+      "name": "热门板块",
+      "font_class": "remenbankuai",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "13211758",
+      "name": "点赞",
+      "font_class": "zanpress",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14156479",
+      "name": "财富",
+      "font_class": "caifu",
+      "unicode": "e808",
+      "unicode_decimal": 59400
+    },
+    {
+      "icon_id": "14922093",
+      "name": "消 息",
+      "font_class": "xiaoxi11",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "15065659",
+      "name": "理财Tab_品类入口-借呗",
+      "font_class": "licaiTab_pinleirukou-jiebei",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "15112687",
+      "name": "自选",
+      "font_class": "zixuan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "16726282",
+      "name": "余额宝-小钱袋",
+      "font_class": "yuebao-xiaoqiandai",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "17033174",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "19296272",
+      "name": "饼状图",
+      "font_class": "bingzhuangtu",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "22743903",
+      "name": "卡 银行卡",
+      "font_class": "a-kayinhangka",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    }
+  ]
+}

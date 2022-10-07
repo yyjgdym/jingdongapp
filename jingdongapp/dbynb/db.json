@@ -1,0 +1,206 @@
+{
+  "goods": [
+    {
+      "id": "01001",
+      "name": " Apple iPhone 11 (A2223) 128GB 黑色 移动联通电信4G手机 双卡双待",
+      "img": "https://img12.360buyimg.com/n1/s450x450_jfs/t1/59022/28/10293/141808/5d78088fEf6e7862d/68836f52ffaaad96.jpg",
+      "price": 4999,
+      "color": [
+        "白色",
+        "黑色",
+        "红色"
+      ]
+    },
+    {
+      "id": "01002",
+      "name": "米家直驱洗烘一体机",
+      "img": "http://img12.360buyimg.com/n1/jfs/t1/125178/7/16502/43895/5f9a653cEb261b37f/feebe84826ae1cfc.jpg",
+      "price": 5999,
+      "color": [
+        "白色",
+        "黑色"
+      ]
+    },
+    {
+      "id": "01003",
+      "name": "【官方正品】全新Dior迪奥烈艳蓝金唇膏传奇新色丝绒999 720",
+      "img": " https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/2207959261164/O1CN017HZL7g1KT9ePJtXHi_!!2207959261164.jpg_430x430q90.jpg",
+      "price": 1999,
+      "color": [
+        "白色",
+        "红色"
+      ]
+    },
+    {
+      "id": "01004",
+      "name": "【官方正品】MAC/魅可尤雾弹唇膏口红大牌正品316/923奶茶色",
+      "img": " https://img.alicdn.com/imgextra/i4/3170729146/O1CN016g20382HQv3RkB4Ph_!!0-item_pic.jpg_430x430q90.jpg",
+      "price": 9.9,
+      "color": [
+        "黑色",
+        "红色"
+      ]
+    },
+    {
+      "id": "01005",
+      "name": "孟加拉猫幼猫豹纹猫宠物猫纯种血蟒纹短毛猫活体空心大玫瑰花纹 心爱颜值款",
+      "img": "http://img13.360buyimg.com/n1/jfs/t1/123067/34/5607/454729/5ef30d6fEc2f22298/ff340e7acbf87759.jpg",
+      "price": 7999
+    },
+    {
+      "id": "01006",
+      "name": "限量版迈凯轮p1",
+      "img": "http://img14.360buyimg.com/n1/jfs/t1/103942/14/4037/118057/5de4dfc6E5bb59781/914372d3d2d8a5a2.jpg",
+      "price": 9.99
+    },
+    {
+      "id": "01007",
+      "name": "越野大G",
+      "img": "http://img11.360buyimg.com/n1/jfs/t1/144417/16/5272/170832/5f34b6ccE049d22ba/f91580a2681a87b7.jpg",
+      "price": 99999
+    },
+    {
+      "id": "01008",
+      "name": "越野大G",
+      "img": "http://img11.360buyimg.com/n1/jfs/t1/144417/16/5272/170832/5f34b6ccE049d22ba/f91580a2681a87b7.jpg",
+      "price": 99999
+    },
+    {
+      "id": "01009",
+      "name": "越野大G",
+      "img": "http://img11.360buyimg.com/n1/jfs/t1/144417/16/5272/170832/5f34b6ccE049d22ba/f91580a2681a87b7.jpg",
+      "price": 99999
+    }
+  ],
+  "inc": {
+    "count": 3
+  },
+  "vips": [
+    {
+      "username": "lcg110",
+      "userpass": "123666",
+      "id": 1
+    },
+    {
+      "username": "ynb111",
+      "userpass": "123456",
+      "id": 2
+    }
+  ],
+  "bannerImgs": [
+    "https://chengqige-7gunki87efeca981-1302748923.tcloudbaseapp.com/1024/2.jpg",
+    "https://chengqige-7gunki87efeca981-1302748923.tcloudbaseapp.com/1024/6.jpg",
+    "https://chengqige-7gunki87efeca981-1302748923.tcloudbaseapp.com/1024/7.jpg",
+    "https://chengqige-7gunki87efeca981-1302748923.tcloudbaseapp.com/1024/12.jpg"
+  ],
+  "comments": [
+    {
+      "goodsid": "01001",
+      "id": "001",
+      "username": "李茂军",
+      "time": "2021-10-27 11:40:15",
+      "content": "三国演义很有内涵"
+    },
+    {
+      "goodsid": "01001",
+      "id": "002",
+      "username": "李茂军02",
+      "time": "2021-10-27 11:41:15",
+      "content": "三国演义很有内涵，女朋友很喜欢"
+    }
+  ],
+  "books": [
+    {
+      "id": "878911",
+      "name": "三国",
+      "author": "罗贯中",
+      "price": 51.2,
+      "img": "/imgs/1.jpg",
+      "type": "hot"
+    },
+    {
+      "id": "878912",
+      "name": "水浒",
+      "author": "施耐庵",
+      "price": 51.5,
+      "img": "/imgs/2.jpg",
+      "type": "hot"
+    },
+    {
+      "id": "878913",
+      "name": "红楼梦",
+      "author": "曹雪芹",
+      "price": 51.8,
+      "img": "/imgs/3.jpg",
+      "type": "hot"
+    },
+    {
+      "id": "878914",
+      "name": "西游记",
+      "author": "吴承恩",
+      "price": 51.8,
+      "img": "/imgs/4.jpg",
+      "type": "hot"
+    },
+    {
+      "id": "878915",
+      "name": "大学",
+      "author": "李茂军",
+      "price": 52.8,
+      "img": "/imgs/img1.jpg",
+      "type": "new"
+    },
+    {
+      "id": "878916",
+      "name": "中庸",
+      "author": "王翠霞",
+      "price": 52.9,
+      "img": "/imgs/img2.jpg",
+      "type": "new"
+    },
+    {
+      "id": "878917",
+      "name": "论语",
+      "author": "王锐",
+      "price": 53.8,
+      "img": "/imgs/img3.jpg",
+      "type": "new"
+    },
+    {
+      "id": "878918",
+      "name": "孟子",
+      "author": "李家恒",
+      "price": 54.8,
+      "img": "/imgs/img4.jpg",
+      "type": "new"
+    },
+    {
+      "id": "878919",
+      "name": "孟子2",
+      "author": "李家恒",
+      "price": 54.8,
+      "img": "/imgs/img4.jpg",
+      "type": "new"
+    },
+    {
+      "id": "878920",
+      "name": "孟子3",
+      "author": "李家恒",
+      "price": 54.8,
+      "img": "/imgs/img4.jpg",
+      "type": "new"
+    }
+  ],
+  "readers": [
+    {
+      "id": "007",
+      "name": "张三疯",
+      "age": 35
+    },
+    {
+      "id": "008",
+      "name": "张四疯",
+      "age": 32
+    }
+  ]
+}
